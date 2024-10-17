@@ -1,6 +1,6 @@
 # O Irresistível Bolo de Cenoura: Uma Delícia Atemporal
 
-![Bolo de Cenoura](/images/bolo-cenoura.jpg)
+![Bolo de Cenoura](../images/bolo-cenoura.webp)
 
 O bolo de cenoura é um clássico que nunca sai de moda. Com sua textura macia, sabor equilibrado e cobertura cremosa de chocolate, ele conquista corações e paladares há gerações. Neste artigo, vamos explorar os segredos desse doce adorado e compartilhar uma receita infalível para você preparar em casa.
 
@@ -8,11 +8,10 @@ O bolo de cenoura é um clássico que nunca sai de moda. Com sua textura macia, 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
 <ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-XXXXXXXXXXXXXXXX"
-     data-ad-slot="XXXXXXXXXX"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
+  style="display:block"
+  data-ad-client="ca-pub-6825416782900448"  
+  data-ad-format="auto"
+  data-full-width-responsive="true"></ins>
 
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
@@ -23,7 +22,7 @@ O bolo de cenoura é um clássico que nunca sai de moda. Com sua textura macia, 
 
 Acredita-se que o bolo de cenoura tenha surgido durante a Idade Média, quando o açúcar e os adoçantes eram escassos e caros. Os confeiteiros europeus descobriram que a cenoura continha açúcares naturais e poderia ser usada para adoçar bolos.
 
-![História do Bolo de Cenoura](/images/historia-bolo-cenoura.jpg)
+![História do Bolo de Cenoura](../images/historia-bolo-cenoura.jpg)
 
 No entanto, a popularidade do bolo de cenoura como o conhecemos hoje explodiu nos Estados Unidos durante a Segunda Guerra Mundial, quando o racionamento de açúcar levou as donas de casa a buscarem alternativas criativas para adoçar seus bolos.
 
@@ -34,24 +33,9 @@ No entanto, a popularidade do bolo de cenoura como o conhecemos hoje explodiu no
 3. **Nutrientes Extras**: A cenoura adiciona vitaminas e fibras ao bolo, tornando-o uma opção um pouco mais saudável entre os doces.
 4. **Versatilidade**: Pode ser servido como sobremesa, lanche ou até mesmo no café da manhã.
 
-<!-- AdSense -->
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-XXXXXXXXXXXXXXXX"
-     data-ad-slot="XXXXXXXXXX"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-<!-- End AdSense -->
-
 ## Receita de Bolo de Cenoura
 
-![Ingredientes do Bolo de Cenoura](/images/ingredientes-bolo-cenoura.jpg)
+![Ingredientes do Bolo de Cenoura](../images/ingredientes-bolo-cenoura.jpg)
 
 ### Ingredientes:
 
@@ -81,22 +65,7 @@ Para a cobertura:
 7. Para a cobertura, misture todos os ingredientes em uma panela e leve ao fogo baixo, mexendo até engrossar.
 8. Espalhe a cobertura sobre o bolo ainda quente.
 
-![Bolo de Cenoura Pronto](/images/bolo-cenoura-pronto.jpg)
-
-<!-- AdSense -->
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-XXXXXXXXXXXXXXXX"
-     data-ad-slot="XXXXXXXXXX"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-<!-- End AdSense -->
+![Bolo de Cenoura Pronto](../images/bolo-cenoura-pronto.jpg)
 
 ## Dicas para o Bolo de Cenoura Perfeito
 
